@@ -1,0 +1,95 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: rgb(105, 104, 104);
+}
+
+.container {
+  color: rgb(105, 104, 104);
+  width: 1000px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.header {
+  width: 100%;
+  background-color: lightgray;
+  height: 100px;
+  text-align: center;
+  font-size: 18px;
+}
+
+.Nav {
+  width: 100%;
+  background-color: lightgray;
+  height: 100px;
+  text-align: center;
+  font-size: 18px;
+}
+
+.middle {
+    width: 100%;
+    margin-top: 15px;
+    height: 300px;
+}
+.middle_left, .middle_right {
+  float: left;
+  background-color: lightgray;
+  text-align: center;
+  font-size: 18px;
+  height: 100%;
+  }
+
+.middle_left {
+    width: 575px;
+    margin-right: 25px;
+    
+}
+
+.section {
+    height: 50px;
+    text-align: center;
+    padding-top: 15px;
+    
+}
+.middle_right {
+    width: 400px;
+    
+  }
+
+.article {
+    color: lightgray;
+    background-color: rgb(105, 104, 104);
+    margin-right: auto;
+    margin-left: auto;
+    width: 95%;
+    height: 200px;
+}
+
+
+
+.art1{ 
+    width: 92%;
+    color: rgb(105, 104, 104);
+    height: 55px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: lightgray;
+}
+
+.art2{
+    width: 92%;
+    color: rgb(105, 104, 104);
+    height: 55px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: lightgray;
+}
+
+.footer {
+    width: 100%;
+    background-color: lightgray;
+    height: 100px;
+    text-align: center;
+    font-size: 18px;
+  }
