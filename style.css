@@ -5,7 +5,7 @@ body {
   color: #777;
   background-color: #777;
   width: 960px;
-  font-size: 18px;
+  font-size: 16px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -49,18 +49,26 @@ body {
 }
 
 .middle_left {
-  width: 525px;
-  margin-right: 25px;
+  width: 495px;
+  margin-right: 20px;
 }
 
 .section {
   height: 40px;
-  width: 525px;
+  width: 495px;
   text-align: center;
-  padding: 15px;
+  padding: 13px;
+}
+
+.sectext {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  vertical-align: center;
+  line-height: 30px;
 }
 .middle_right {
-  width: 410px;
+  width: 445px;
 }
 
 .aside {
@@ -83,10 +91,10 @@ body {
 
 .art1 {
   margin-top: -10px;
-  margin-bottom: -8px;
-  width: 90%;
+  margin-bottom: -7px;
+  width: 92%;
   color: rgb(105, 104, 104);
-  height: 45px;
+  height: 50px;
   margin-right: auto;
   margin-left: auto;
   background-color: #ebebeb;
@@ -99,9 +107,9 @@ body {
 }
 
 .art2 {
-  width: 90%;
+  width: 92%;
   color: rgb(105, 104, 104);
-  height: 45px;
+  height: 50px;
   margin-right: auto;
   margin-left: auto;
   background-color: #ebebeb;
