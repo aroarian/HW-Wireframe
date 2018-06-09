@@ -28,7 +28,6 @@ body {
   background-color: #ebebeb;
   height: 85px;
   text-align: center;
-  
 }
 
 .navtext {
@@ -40,7 +39,8 @@ body {
   margin-top: 20px;
   height: 275px;
 }
-.middle_left,.middle_right {
+.middle_left,
+.middle_right {
   float: left;
   background-color: #ebebeb;
   text-align: center;
@@ -86,7 +86,7 @@ body {
 
 .arttext {
   padding: 10px;
-  padding-top:15px;
+  padding-top: 15px;
 }
 
 .art1 {
@@ -125,7 +125,6 @@ body {
   height: 100px;
   text-align: center;
   font-size: 18px;
-  
 }
 
 .foot {
